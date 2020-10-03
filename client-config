@@ -1,2 +1,3 @@
 config:
-        myClient-config 1
+        info: myClient-config 1
+
